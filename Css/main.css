@@ -557,6 +557,57 @@ height: 300px;
 }
 
 
+@media(width: 412px) {
+  #popup,
+  #popupp{
+    transform: translate(-50%,-50%) scale(0.9);
+  }
+
+}
+@media(width: 414px) {
+  #popup,
+  #popupp{
+    transform: translate(-50%,-50%) scale(0.88);
+  }
+
+}
+@media(width:344px) {
+  #popup,
+  #popupp{
+    transform: translate(-50%,-50%) scale(0.8);
+  }
+
+}
+@media(width:375px) {
+  #popup,
+  #popupp{
+    transform: translate(-50%,-50%) scale(0.7);
+  }
+
+}
+@media(width:390px) {
+  #popup,
+  #popupp{
+    transform: translate(-50%,-50%) scale(0.8);
+  }
+
+}
+@media(width:430px) {
+  #popup,
+  #popupp{
+    transform: translate(-50%,-50%) scale(0.99);
+  }
+
+}
+@media(width:360px) {
+  #popup,
+  #popupp{
+    transform: translate(-50%,-50%) scale(0.77);
+  }
+
+}
+
+
 /* end blur */
 
 
