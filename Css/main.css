@@ -578,13 +578,7 @@ height: 300px;
   }
 
 }
-@media(width:375px) {
-  #popup,
-  #popupp{
-    transform: translate(-50%,-50%) scale(0.7);
-  }
 
-}
 @media(width:390px) {
   #popup,
   #popupp{
